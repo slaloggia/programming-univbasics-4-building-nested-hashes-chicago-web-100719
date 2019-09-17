@@ -23,7 +23,7 @@ def monopoly_with_third_tier
   {:railroads => {
     pieces: 4, 
     rent_in_dollars: {one_piece_owned: 25, two_pieces_owned: 50, three_pieces_owned: 100, four_pieces_owned: 200},
-    names: {name_key_1: "John", name_key_2: "Jim", name_key_3: "Jill", name_key_4: "Jane"}
+    names: {reading_railroad: {}, name_key_2: "Jim", name_key_3: "Jill", name_key_4: "Jane"}
     
   }
   }
