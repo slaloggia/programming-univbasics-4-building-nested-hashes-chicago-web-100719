@@ -20,7 +20,7 @@ def monopoly_with_third_tier
   # they'll guide you in how to modify what you just did to have more
   # complexity.
   
-  {:railroads => {pieces: 4, rent_in_dollars: {key1: [], key2: [], key3: [], key4: []}, names: {name1: x, name2: y, name3: z, name4: n}}}
+  {:railroads => {pieces: 4, rent_in_dollars: {key1: [], key2: [], key3: [], key4: []}, }}
 
 end
 
